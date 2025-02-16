@@ -13,8 +13,8 @@ U22CS1103 | Oluwaseyi Adeniyi Oyekunle [Click Here](https://github.com/Deniyhi/G
 U22CS1119 | Yakubu Zaniab Ohunene [Click Here](https://github.com/zaynabohunene/Group-11-simplex-project.git)
 
 ---
-**Name**: Oloruntoba Favour Oluwatosin </br>
-**Matric no.**: U22CS1098 </br>
+**Name**: Okewu Victoria Ochanya </br>
+**Matric no.**: U22CS1097 </br>
 
 # **C++ Implementation of the Simplex Algorithm for Solving Linear Programming Problems (LPPs)**
 
